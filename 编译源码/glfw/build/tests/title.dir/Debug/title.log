@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/pc/Desktop/openGL/glfw/tests/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/pc/Desktop/openGL/glfw/build/tests/CMakeFiles/generate.stamp is up-to-date.
+  title.c
+C:\Users\pc\Desktop\openGL\glfw\tests\title.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  glad.c
+  正在生成代码...
+  title.vcxproj -> C:\Users\pc\Desktop\openGL\glfw\build\tests\Debug\title.exe

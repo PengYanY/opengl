@@ -1,0 +1,186 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Éú³ÉÒıÇæ°æ±¾ 14.0.25420.1
+°æÈ¨ËùÓĞ(C) Microsoft Corporation¡£±£ÁôËùÓĞÈ¨Àû¡£
+
+Éú³ÉÆô¶¯Ê±¼äÎª 2018/8/14 16:57:40¡£
+½Úµã 1 ÉÏµÄÏîÄ¿¡°C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj¡±(Ä¬ÈÏÄ¿±ê)¡£
+PrepareForBuild:
+  ÕıÔÚ´´½¨Ä¿Â¼¡°Debug\¡±¡£
+  ÕıÔÚ´´½¨Ä¿Â¼¡°Debug\CompilerIdC.tlog\¡±¡£
+InitializeBuildStatus:
+  ÕıÔÚ´´½¨¡°Debug\CompilerIdC.tlog\unsuccessfulbuild¡±£¬ÒòÎªÒÑÖ¸¶¨¡°AlwaysCreate¡±¡£
+ClCompile:
+  CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  TRACKER : ´íÎó TRK0005: Î´ÄÜÕÒµ½: ¡°CL.exe¡±¡£ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+  
+  
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(356,5): error MSB6006: ¡°CL.exe¡±ÒÑÍË³ö£¬´úÂëÎª 5¡£ [C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj]
+ÒÑÍê³ÉÉú³ÉÏîÄ¿¡°C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj¡±(Ä¬ÈÏÄ¿±ê)µÄ²Ù×÷ - Ê§°Ü¡£
+
+Éú³ÉÊ§°Ü¡£
+
+¡°C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj¡±(Ä¬ÈÏÄ¿±ê) (1) ->
+(ClCompile Ä¿±ê) -> 
+  C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(356,5): error MSB6006: ¡°CL.exe¡±ÒÑÍË³ö£¬´úÂëÎª 5¡£ [C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 ¸ö¾¯¸æ
+    1 ¸ö´íÎó
+
+ÒÑÓÃÊ±¼ä 00:00:00.48
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Éú³ÉÒıÇæ°æ±¾ 14.0.25420.1
+°æÈ¨ËùÓĞ(C) Microsoft Corporation¡£±£ÁôËùÓĞÈ¨Àû¡£
+
+Éú³ÉÆô¶¯Ê±¼äÎª 2018/8/14 16:57:40¡£
+½Úµã 1 ÉÏµÄÏîÄ¿¡°C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj¡±(Ä¬ÈÏÄ¿±ê)¡£
+PrepareForBuild:
+  ÕıÔÚ´´½¨Ä¿Â¼¡°Debug\¡±¡£
+  ÕıÔÚ´´½¨Ä¿Â¼¡°Debug\CompilerIdC.tlog\¡±¡£
+InitializeBuildStatus:
+  ÕıÔÚ´´½¨¡°Debug\CompilerIdC.tlog\unsuccessfulbuild¡±£¬ÒòÎªÒÑÖ¸¶¨¡°AlwaysCreate¡±¡£
+ClCompile:
+  CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  TRACKER : ´íÎó TRK0005: Î´ÄÜÕÒµ½: ¡°CL.exe¡±¡£ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+  
+  
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(356,5): error MSB6006: ¡°CL.exe¡±ÒÑÍË³ö£¬´úÂëÎª 5¡£ [C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj]
+ÒÑÍê³ÉÉú³ÉÏîÄ¿¡°C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj¡±(Ä¬ÈÏÄ¿±ê)µÄ²Ù×÷ - Ê§°Ü¡£
+
+Éú³ÉÊ§°Ü¡£
+
+¡°C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj¡±(Ä¬ÈÏÄ¿±ê) (1) ->
+(ClCompile Ä¿±ê) -> 
+  C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(356,5): error MSB6006: ¡°CL.exe¡±ÒÑÍË³ö£¬´úÂëÎª 5¡£ [C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 ¸ö¾¯¸æ
+    1 ¸ö´íÎó
+
+ÒÑÓÃÊ±¼ä 00:00:00.38
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Éú³ÉÒıÇæ°æ±¾ 14.0.25420.1
+°æÈ¨ËùÓĞ(C) Microsoft Corporation¡£±£ÁôËùÓĞÈ¨Àû¡£
+
+Éú³ÉÆô¶¯Ê±¼äÎª 2018/8/14 17:13:25¡£
+½Úµã 1 ÉÏµÄÏîÄ¿¡°C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj¡±(Ä¬ÈÏÄ¿±ê)¡£
+PrepareForBuild:
+  ÕıÔÚ´´½¨Ä¿Â¼¡°Debug\¡±¡£
+  ÕıÔÚ´´½¨Ä¿Â¼¡°Debug\CompilerIdC.tlog\¡±¡£
+InitializeBuildStatus:
+  ÕıÔÚ´´½¨¡°Debug\CompilerIdC.tlog\unsuccessfulbuild¡±£¬ÒòÎªÒÑÖ¸¶¨¡°AlwaysCreate¡±¡£
+ClCompile:
+  CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  TRACKER : ´íÎó TRK0005: Î´ÄÜÕÒµ½: ¡°CL.exe¡±¡£ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+  
+  
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(356,5): error MSB6006: ¡°CL.exe¡±ÒÑÍË³ö£¬´úÂëÎª 5¡£ [C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj]
+ÒÑÍê³ÉÉú³ÉÏîÄ¿¡°C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj¡±(Ä¬ÈÏÄ¿±ê)µÄ²Ù×÷ - Ê§°Ü¡£
+
+Éú³ÉÊ§°Ü¡£
+
+¡°C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj¡±(Ä¬ÈÏÄ¿±ê) (1) ->
+(ClCompile Ä¿±ê) -> 
+  C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(356,5): error MSB6006: ¡°CL.exe¡±ÒÑÍË³ö£¬´úÂëÎª 5¡£ [C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 ¸ö¾¯¸æ
+    1 ¸ö´íÎó
+
+ÒÑÓÃÊ±¼ä 00:00:00.39
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Éú³ÉÒıÇæ°æ±¾ 14.0.25420.1
+°æÈ¨ËùÓĞ(C) Microsoft Corporation¡£±£ÁôËùÓĞÈ¨Àû¡£
+
+Éú³ÉÆô¶¯Ê±¼äÎª 2018/8/14 17:13:26¡£
+½Úµã 1 ÉÏµÄÏîÄ¿¡°C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj¡±(Ä¬ÈÏÄ¿±ê)¡£
+PrepareForBuild:
+  ÕıÔÚ´´½¨Ä¿Â¼¡°Debug\¡±¡£
+  ÕıÔÚ´´½¨Ä¿Â¼¡°Debug\CompilerIdC.tlog\¡±¡£
+InitializeBuildStatus:
+  ÕıÔÚ´´½¨¡°Debug\CompilerIdC.tlog\unsuccessfulbuild¡±£¬ÒòÎªÒÑÖ¸¶¨¡°AlwaysCreate¡±¡£
+ClCompile:
+  CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  TRACKER : ´íÎó TRK0005: Î´ÄÜÕÒµ½: ¡°CL.exe¡±¡£ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÎÄ¼ş¡£
+  
+  
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(356,5): error MSB6006: ¡°CL.exe¡±ÒÑÍË³ö£¬´úÂëÎª 5¡£ [C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj]
+ÒÑÍê³ÉÉú³ÉÏîÄ¿¡°C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj¡±(Ä¬ÈÏÄ¿±ê)µÄ²Ù×÷ - Ê§°Ü¡£
+
+Éú³ÉÊ§°Ü¡£
+
+¡°C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj¡±(Ä¬ÈÏÄ¿±ê) (1) ->
+(ClCompile Ä¿±ê) -> 
+  C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(356,5): error MSB6006: ¡°CL.exe¡±ÒÑÍË³ö£¬´úÂëÎª 5¡£ [C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 ¸ö¾¯¸æ
+    1 ¸ö´íÎó
+
+ÒÑÓÃÊ±¼ä 00:00:00.39
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/pc/Desktop/openGL/glfw/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_3f09f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) ç”Ÿæˆå¼•æ“ç‰ˆæœ¬ 14.0.25420.1
+ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
+
+ç”Ÿæˆå¯åŠ¨æ—¶é—´ä¸º 2018/8/14 19:31:56ã€‚
+èŠ‚ç‚¹ 1 ä¸Šçš„é¡¹ç›®â€œC:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\CMakeTmp\cmTC_3f09f.vcxprojâ€(é»˜è®¤ç›®æ ‡)ã€‚
+PrepareForBuild:
+  æ­£åœ¨åˆ›å»ºç›®å½•â€œcmTC_3f09f.dir\Debug\â€ã€‚
+  æ­£åœ¨åˆ›å»ºç›®å½•â€œC:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\CMakeTmp\Debug\â€ã€‚
+  æ­£åœ¨åˆ›å»ºç›®å½•â€œcmTC_3f09f.dir\Debug\cmTC_3f09f.tlog\â€ã€‚
+InitializeBuildStatus:
+  æ­£åœ¨åˆ›å»ºâ€œcmTC_3f09f.dir\Debug\cmTC_3f09f.tlog\unsuccessfulbuildâ€ï¼Œå› ä¸ºå·²æŒ‡å®šâ€œAlwaysCreateâ€ã€‚
+ClCompile:
+  D:\apply\vs2015\VC\bin\CL.exe /c /Zi /W1 /WX- /Od /Ob0 /Oy- /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3f09f.dir\Debug\\" /Fd"cmTC_3f09f.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  ç”¨äº x86 çš„ Microsoft (R) C/C++ ä¼˜åŒ–ç¼–è¯‘å™¨ 19.00.24215.1 ç‰ˆ
+  ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
+  
+  cl /c /Zi /W1 /WX- /Od /Ob0 /Oy- /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3f09f.dir\Debug\\" /Fd"cmTC_3f09f.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+  CheckIncludeFile.c
+C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: æ— æ³•æ‰“å¼€åŒ…æ‹¬æ–‡ä»¶: â€œpthread.hâ€: No such file or directory [C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\CMakeTmp\cmTC_3f09f.vcxproj]
+å·²å®Œæˆç”Ÿæˆé¡¹ç›®â€œC:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\CMakeTmp\cmTC_3f09f.vcxprojâ€(é»˜è®¤ç›®æ ‡)çš„æ“ä½œ - å¤±è´¥ã€‚
+
+ç”Ÿæˆå¤±è´¥ã€‚
+
+â€œC:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\CMakeTmp\cmTC_3f09f.vcxprojâ€(é»˜è®¤ç›®æ ‡) (1) ->
+(ClCompile ç›®æ ‡) -> 
+  C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: æ— æ³•æ‰“å¼€åŒ…æ‹¬æ–‡ä»¶: â€œpthread.hâ€: No such file or directory [C:\Users\pc\Desktop\openGL\glfw\build\CMakeFiles\CMakeTmp\cmTC_3f09f.vcxproj]
+
+    0 ä¸ªè­¦å‘Š
+    1 ä¸ªé”™è¯¯
+
+å·²ç”¨æ—¶é—´ 00:00:00.41
+
+

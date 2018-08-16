@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/pc/Desktop/openGL/glfw/tests/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/pc/Desktop/openGL/glfw/build/tests/CMakeFiles/generate.stamp is up-to-date.
+  icon.c
+  glad.c
+  正在生成代码...
+  icon.vcxproj -> C:\Users\pc\Desktop\openGL\glfw\build\tests\Debug\icon.exe
