@@ -117,19 +117,25 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C:\Users\pc\Downloads\glad\src\glad.c" />
-    <ClCompile Include="texture1.cpp" />
+    <ClCompile Include="trans.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="shader.1.fs" />
     <None Include="shader.1.vs" />
     <None Include="shader.2.fs" />
     <None Include="shader.2.vs" />
+    <None Include="shader.3.fs" />
+    <None Include="shader.3.vs" />
     <None Include="shader.fs" />
     <None Include="shader.vs" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="C:\Users\pc\Desktop\wall.jpg" />
     <Image Include="face.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="shader_s.h" />
+    <ClInclude Include="stb_image.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
