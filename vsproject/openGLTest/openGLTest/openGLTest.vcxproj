@@ -117,7 +117,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C:\Users\pc\Downloads\glad\src\glad.c" />
-    <ClCompile Include="trans.cpp" />
+    <ClCompile Include="df.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="shader.1.fs" />
@@ -126,6 +126,8 @@
     <None Include="shader.2.vs" />
     <None Include="shader.3.fs" />
     <None Include="shader.3.vs" />
+    <None Include="shader.4.fs" />
+    <None Include="shader.4.vs" />
     <None Include="shader.fs" />
     <None Include="shader.vs" />
   </ItemGroup>

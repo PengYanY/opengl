@@ -21,7 +21,7 @@
     <ClCompile Include="C:\Users\pc\Downloads\glad\src\glad.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="trans.cpp">
+    <ClCompile Include="df.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -48,6 +48,12 @@
       <Filter>资源文件</Filter>
     </None>
     <None Include="shader.3.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="shader.4.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="shader.4.vs">
       <Filter>资源文件</Filter>
     </None>
   </ItemGroup>
