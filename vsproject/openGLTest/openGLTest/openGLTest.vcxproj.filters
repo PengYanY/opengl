@@ -21,7 +21,7 @@
     <ClCompile Include="C:\Users\pc\Downloads\glad\src\glad.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="df.cpp">
+    <ClCompile Include="camera2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -54,6 +54,12 @@
       <Filter>资源文件</Filter>
     </None>
     <None Include="shader.4.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="shader.5.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="shader.5.vs">
       <Filter>资源文件</Filter>
     </None>
   </ItemGroup>
