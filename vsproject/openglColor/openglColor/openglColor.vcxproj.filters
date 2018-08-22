@@ -18,7 +18,7 @@
     <ClCompile Include="glad.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="color.cpp">
+    <ClCompile Include="color4.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -27,6 +27,12 @@
       <Filter>资源文件</Filter>
     </Image>
     <Image Include="wall.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="container.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="container3.png">
       <Filter>资源文件</Filter>
     </Image>
   </ItemGroup>
@@ -41,6 +47,42 @@
       <Filter>资源文件</Filter>
     </None>
     <None Include="shader.lamp.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="shader.lamp1.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="shader.lamp1.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="shader.light1.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="shader.light1.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="shader.lamp2.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="shader.lamp2.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="shader.light2.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="shader.light2.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="shader.lamp3.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="shader.lamp3.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="shader.light3.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="shader.light3.vs">
       <Filter>资源文件</Filter>
     </None>
   </ItemGroup>

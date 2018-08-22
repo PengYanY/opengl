@@ -1,16 +1,23 @@
-﻿  color.cpp
+﻿  color4.cpp
 d:\vs\include\shader_s.h(46): warning C4101: “infoLog”: 未引用的局部变量
 d:\vs\include\shader_s.h(45): warning C4101: “success”: 未引用的局部变量
-e:\github\opengl\vsproject\openglcolor\openglcolor\color.cpp(163): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-e:\github\opengl\vsproject\openglcolor\openglcolor\color.cpp(181): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\github\opengl\vsproject\openglcolor\openglcolor\color.cpp(182): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\github\opengl\vsproject\openglcolor\openglcolor\color.cpp(183): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\github\opengl\vsproject\openglcolor\openglcolor\color.cpp(276): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\github\opengl\vsproject\openglcolor\openglcolor\color.cpp(277): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\github\opengl\vsproject\openglcolor\openglcolor\color.cpp(281): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-e:\github\opengl\vsproject\openglcolor\openglcolor\color.cpp(282): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-e:\github\opengl\vsproject\openglcolor\openglcolor\color.cpp(284): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\github\opengl\vsproject\openglcolor\openglcolor\color.cpp(285): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\github\opengl\vsproject\openglcolor\openglcolor\color.cpp(294): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\github\opengl\vsproject\openglcolor\openglcolor\color4.cpp(196): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\github\opengl\vsproject\openglcolor\openglcolor\color4.cpp(222): warning C4305: “参数”: 从“double”到“float”截断
+e:\github\opengl\vsproject\openglcolor\openglcolor\color4.cpp(223): warning C4305: “参数”: 从“double”到“float”截断
+e:\github\opengl\vsproject\openglcolor\openglcolor\color4.cpp(230): warning C4305: “参数”: 从“double”到“float”截断
+e:\github\opengl\vsproject\openglcolor\openglcolor\color4.cpp(231): warning C4305: “参数”: 从“double”到“float”截断
+e:\github\opengl\vsproject\openglcolor\openglcolor\color4.cpp(238): warning C4305: “参数”: 从“double”到“float”截断
+e:\github\opengl\vsproject\openglcolor\openglcolor\color4.cpp(239): warning C4305: “参数”: 从“double”到“float”截断
+e:\github\opengl\vsproject\openglcolor\openglcolor\color4.cpp(246): warning C4305: “参数”: 从“double”到“float”截断
+e:\github\opengl\vsproject\openglcolor\openglcolor\color4.cpp(247): warning C4305: “参数”: 从“double”到“float”截断
+e:\github\opengl\vsproject\openglcolor\openglcolor\color4.cpp(255): warning C4305: “参数”: 从“double”到“float”截断
+e:\github\opengl\vsproject\openglcolor\openglcolor\color4.cpp(256): warning C4305: “参数”: 从“double”到“float”截断
+e:\github\opengl\vsproject\openglcolor\openglcolor\color4.cpp(371): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\github\opengl\vsproject\openglcolor\openglcolor\color4.cpp(372): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\github\opengl\vsproject\openglcolor\openglcolor\color4.cpp(376): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\github\opengl\vsproject\openglcolor\openglcolor\color4.cpp(377): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\github\opengl\vsproject\openglcolor\openglcolor\color4.cpp(379): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\github\opengl\vsproject\openglcolor\openglcolor\color4.cpp(380): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\github\opengl\vsproject\openglcolor\openglcolor\color4.cpp(389): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
   openglColor.vcxproj -> E:\github\opengl\vsproject\openglColor\Debug\openglColor.exe
   openglColor.vcxproj -> E:\github\opengl\vsproject\openglColor\Debug\openglColor.pdb (Partial PDB)

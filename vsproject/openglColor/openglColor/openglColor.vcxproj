@@ -116,18 +116,32 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="color.cpp" />
+    <ClCompile Include="color4.cpp" />
     <ClCompile Include="glad.c" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="container.png" />
+    <Image Include="container3.png" />
     <Image Include="face.png" />
     <Image Include="wall.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="shader.lamp.fs" />
     <None Include="shader.lamp.vs" />
+    <None Include="shader.lamp1.fs" />
+    <None Include="shader.lamp1.vs" />
+    <None Include="shader.lamp2.fs" />
+    <None Include="shader.lamp2.vs" />
+    <None Include="shader.lamp3.fs" />
+    <None Include="shader.lamp3.vs" />
     <None Include="shader.light.fs" />
     <None Include="shader.light.vs" />
+    <None Include="shader.light1.fs" />
+    <None Include="shader.light1.vs" />
+    <None Include="shader.light2.fs" />
+    <None Include="shader.light2.vs" />
+    <None Include="shader.light3.fs" />
+    <None Include="shader.light3.vs" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="D:\vs\include\camera.h" />
