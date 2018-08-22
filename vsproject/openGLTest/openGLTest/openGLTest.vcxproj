@@ -116,7 +116,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\pc\Downloads\glad\src\glad.c" />
     <ClCompile Include="camera2.cpp" />
   </ItemGroup>
   <ItemGroup>
