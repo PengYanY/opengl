@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="资源文件\skybox">
+      <UniqueIdentifier>{7098846e-60a9-4ac3-83ea-9879b843c18a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="glad.c">
@@ -21,7 +24,7 @@
     <ClCompile Include="mesh.h">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="skybox.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -31,6 +34,36 @@
     </Image>
     <Image Include="container3.png">
       <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="grass.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="window.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="marble.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="metal.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="skybox\front.jpg">
+      <Filter>资源文件\skybox</Filter>
+    </Image>
+    <Image Include="skybox\back.jpg">
+      <Filter>资源文件\skybox</Filter>
+    </Image>
+    <Image Include="skybox\left.jpg">
+      <Filter>资源文件\skybox</Filter>
+    </Image>
+    <Image Include="skybox\top.jpg">
+      <Filter>资源文件\skybox</Filter>
+    </Image>
+    <Image Include="skybox\right.jpg">
+      <Filter>资源文件\skybox</Filter>
+    </Image>
+    <Image Include="skybox\bottom.jpg">
+      <Filter>资源文件\skybox</Filter>
     </Image>
   </ItemGroup>
   <ItemGroup>
@@ -50,6 +83,48 @@
       <Filter>资源文件</Filter>
     </None>
     <None Include="model_loading.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="stencil_test.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="stencil_test.1.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="stencil_test.1.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="stencil_test.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="grass.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="grass.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="framebuffer.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="framebuffer.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="framebuffer_screen.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="framebuffer_screen.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="cubemaps.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="cubemaps.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="skybox.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="skybox.vs">
       <Filter>资源文件</Filter>
     </None>
   </ItemGroup>

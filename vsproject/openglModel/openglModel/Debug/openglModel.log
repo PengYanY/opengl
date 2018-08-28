@@ -1,13 +1,2 @@
-﻿  main.cpp
-d:\vs\include\shader_s.h(46): warning C4101: “infoLog”: 未引用的局部变量
-d:\vs\include\shader_s.h(45): warning C4101: “success”: 未引用的局部变量
-e:\github\opengl\vsproject\openglmodel\openglmodel\main.cpp(91): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-e:\github\opengl\vsproject\openglmodel\openglmodel\main.cpp(165): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\github\opengl\vsproject\openglmodel\openglmodel\main.cpp(166): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\github\opengl\vsproject\openglmodel\openglmodel\main.cpp(170): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-e:\github\opengl\vsproject\openglmodel\openglmodel\main.cpp(171): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-e:\github\opengl\vsproject\openglmodel\openglmodel\main.cpp(173): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\github\opengl\vsproject\openglmodel\openglmodel\main.cpp(174): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\github\opengl\vsproject\openglmodel\openglmodel\main.cpp(183): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-  openglModel.vcxproj -> E:\github\opengl\vsproject\openglModel\Debug\openglModel.exe
+﻿  openglModel.vcxproj -> E:\github\opengl\vsproject\openglModel\Debug\openglModel.exe
   openglModel.vcxproj -> E:\github\opengl\vsproject\openglModel\Debug\openglModel.pdb (Partial PDB)

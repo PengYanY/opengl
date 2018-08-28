@@ -117,20 +117,44 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="glad.c" />
-    <ClCompile Include="main.cpp" />
     <ClCompile Include="mesh.h" />
+    <ClCompile Include="skybox.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.png" />
     <Image Include="container3.png" />
+    <Image Include="grass.png" />
+    <Image Include="marble.jpg" />
+    <Image Include="metal.png" />
+    <Image Include="skybox\back.jpg" />
+    <Image Include="skybox\bottom.jpg" />
+    <Image Include="skybox\front.jpg" />
+    <Image Include="skybox\left.jpg" />
+    <Image Include="skybox\right.jpg" />
+    <Image Include="skybox\top.jpg" />
+    <Image Include="window.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="cubemaps.fs" />
+    <None Include="cubemaps.vs" />
+    <None Include="framebuffer.fs" />
+    <None Include="framebuffer.vs" />
+    <None Include="framebuffer_screen.fs" />
+    <None Include="framebuffer_screen.vs" />
+    <None Include="grass.fs" />
+    <None Include="grass.vs" />
     <None Include="model_loading.fs" />
     <None Include="model_loading.vs" />
     <None Include="shader.lamp3.fs" />
     <None Include="shader.lamp3.vs" />
     <None Include="shader.light3.fs" />
     <None Include="shader.light3.vs" />
+    <None Include="skybox.fs" />
+    <None Include="skybox.vs" />
+    <None Include="stencil_test.1.fs" />
+    <None Include="stencil_test.1.vs" />
+    <None Include="stencil_test.fs" />
+    <None Include="stencil_test.vs" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="D:\vs\include\shader_s.h" />
