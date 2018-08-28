@@ -24,7 +24,7 @@
     <ClCompile Include="mesh.h">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="skybox.cpp">
+    <ClCompile Include="uniform.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -125,6 +125,21 @@
       <Filter>资源文件</Filter>
     </None>
     <None Include="skybox.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="advanced_glsl.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="blue.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="green.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="red.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="yellow.fs">
       <Filter>资源文件</Filter>
     </None>
   </ItemGroup>

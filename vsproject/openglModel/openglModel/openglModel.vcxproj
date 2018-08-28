@@ -118,7 +118,7 @@
   <ItemGroup>
     <ClCompile Include="glad.c" />
     <ClCompile Include="mesh.h" />
-    <ClCompile Include="skybox.cpp" />
+    <ClCompile Include="uniform.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.png" />
@@ -135,6 +135,8 @@
     <Image Include="window.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="advanced_glsl.vs" />
+    <None Include="blue.fs" />
     <None Include="cubemaps.fs" />
     <None Include="cubemaps.vs" />
     <None Include="framebuffer.fs" />
@@ -143,8 +145,10 @@
     <None Include="framebuffer_screen.vs" />
     <None Include="grass.fs" />
     <None Include="grass.vs" />
+    <None Include="green.fs" />
     <None Include="model_loading.fs" />
     <None Include="model_loading.vs" />
+    <None Include="red.fs" />
     <None Include="shader.lamp3.fs" />
     <None Include="shader.lamp3.vs" />
     <None Include="shader.light3.fs" />
@@ -155,6 +159,7 @@
     <None Include="stencil_test.1.vs" />
     <None Include="stencil_test.fs" />
     <None Include="stencil_test.vs" />
+    <None Include="yellow.fs" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="D:\vs\include\shader_s.h" />
