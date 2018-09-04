@@ -24,7 +24,7 @@
     <ClCompile Include="mesh.h">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="uniform.cpp">
+    <ClCompile Include="advanceColor.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -140,6 +140,21 @@
       <Filter>资源文件</Filter>
     </None>
     <None Include="yellow.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="geometry_shader.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="geometry_shader.gs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="geometry_shader.vs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="advanced_lighting.fs">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="advanced_lighting.vs">
       <Filter>资源文件</Filter>
     </None>
   </ItemGroup>

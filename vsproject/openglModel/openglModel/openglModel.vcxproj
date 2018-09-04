@@ -116,9 +116,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="advanceColor.cpp" />
     <ClCompile Include="glad.c" />
     <ClCompile Include="mesh.h" />
-    <ClCompile Include="uniform.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.png" />
@@ -136,6 +136,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="advanced_glsl.vs" />
+    <None Include="advanced_lighting.fs" />
+    <None Include="advanced_lighting.vs" />
     <None Include="blue.fs" />
     <None Include="cubemaps.fs" />
     <None Include="cubemaps.vs" />
@@ -143,6 +145,9 @@
     <None Include="framebuffer.vs" />
     <None Include="framebuffer_screen.fs" />
     <None Include="framebuffer_screen.vs" />
+    <None Include="geometry_shader.fs" />
+    <None Include="geometry_shader.gs" />
+    <None Include="geometry_shader.vs" />
     <None Include="grass.fs" />
     <None Include="grass.vs" />
     <None Include="green.fs" />
