@@ -21,11 +21,11 @@
     <ClCompile Include="glad.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="mesh.h">
+    <ClCompile Include="expode.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="advanceColor.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="mesh.h">
+      <Filter>头文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

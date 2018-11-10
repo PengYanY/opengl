@@ -116,7 +116,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="advanceColor.cpp" />
+    <ClCompile Include="expode.cpp" />
     <ClCompile Include="glad.c" />
     <ClCompile Include="mesh.h" />
   </ItemGroup>

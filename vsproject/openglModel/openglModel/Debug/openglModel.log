@@ -1,2 +1,16 @@
-﻿  openglModel.vcxproj -> E:\github\opengl\vsproject\openglModel\Debug\openglModel.exe
+﻿  expode.cpp
+d:\vs\include\shader_s.h(117): warning C4101: “infoLog”: 未引用的局部变量
+d:\vs\include\shader_s.h(116): warning C4101: “success”: 未引用的局部变量
+e:\github\opengl\vsproject\openglmodel\openglmodel\expode.cpp(27): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\github\opengl\vsproject\openglmodel\openglmodel\expode.cpp(28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\github\opengl\vsproject\openglmodel\openglmodel\expode.cpp(88): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\github\opengl\vsproject\openglmodel\openglmodel\expode.cpp(111): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\github\opengl\vsproject\openglmodel\openglmodel\expode.cpp(159): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\github\opengl\vsproject\openglmodel\openglmodel\expode.cpp(160): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\github\opengl\vsproject\openglmodel\openglmodel\expode.cpp(164): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\github\opengl\vsproject\openglmodel\openglmodel\expode.cpp(165): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\github\opengl\vsproject\openglmodel\openglmodel\expode.cpp(167): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\github\opengl\vsproject\openglmodel\openglmodel\expode.cpp(168): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\github\opengl\vsproject\openglmodel\openglmodel\expode.cpp(177): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  openglModel.vcxproj -> E:\github\opengl\vsproject\openglModel\Debug\openglModel.exe
   openglModel.vcxproj -> E:\github\opengl\vsproject\openglModel\Debug\openglModel.pdb (Partial PDB)

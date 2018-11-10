@@ -1,0 +1,36 @@
+﻿  main.cpp
+e:\github\opengl\vsproject\breakout\main.cpp(65): error C2065: “Shader”: 未声明的标识符
+e:\github\opengl\vsproject\breakout\main.cpp(65): error C2146: 语法错误: 缺少“;”(在标识符“shader”的前面)
+e:\github\opengl\vsproject\breakout\main.cpp(65): error C3861: “shader”: 找不到标识符
+e:\github\opengl\vsproject\breakout\main.cpp(85): error C2065: “shader”: 未声明的标识符
+e:\github\opengl\vsproject\breakout\main.cpp(85): error C2228: “.use”的左边必须有类/结构/联合
+  e:\github\opengl\vsproject\breakout\main.cpp(85): note: 类型是“unknown-type”
+e:\github\opengl\vsproject\breakout\main.cpp(86): error C2065: “shader”: 未声明的标识符
+e:\github\opengl\vsproject\breakout\main.cpp(86): error C2228: “.setMat4”的左边必须有类/结构/联合
+  e:\github\opengl\vsproject\breakout\main.cpp(86): note: 类型是“unknown-type”
+e:\github\opengl\vsproject\breakout\main.cpp(87): error C2065: “shader”: 未声明的标识符
+e:\github\opengl\vsproject\breakout\main.cpp(87): error C2228: “.setMat4”的左边必须有类/结构/联合
+  e:\github\opengl\vsproject\breakout\main.cpp(87): note: 类型是“unknown-type”
+e:\github\opengl\vsproject\breakout\main.cpp(88): error C2065: “shader”: 未声明的标识符
+e:\github\opengl\vsproject\breakout\main.cpp(88): error C2228: “.setMat4”的左边必须有类/结构/联合
+  e:\github\opengl\vsproject\breakout\main.cpp(88): note: 类型是“unknown-type”
+e:\github\opengl\vsproject\breakout\main.cpp(91): error C2065: “shader”: 未声明的标识符
+e:\github\opengl\vsproject\breakout\main.cpp(91): error C2228: “.setFloat”的左边必须有类/结构/联合
+  e:\github\opengl\vsproject\breakout\main.cpp(91): note: 类型是“unknown-type”
+e:\github\opengl\vsproject\breakout\main.cpp(94): error C2065: “nanosuit”: 未声明的标识符
+e:\github\opengl\vsproject\breakout\main.cpp(94): error C2228: “.Draw”的左边必须有类/结构/联合
+  e:\github\opengl\vsproject\breakout\main.cpp(94): note: 类型是“unknown-type”
+e:\github\opengl\vsproject\breakout\main.cpp(94): error C2065: “shader”: 未声明的标识符
+e:\github\opengl\vsproject\breakout\main.cpp(115): error C2065: “deltaTime”: 未声明的标识符
+e:\github\opengl\vsproject\breakout\main.cpp(117): error C2065: “deltaTime”: 未声明的标识符
+e:\github\opengl\vsproject\breakout\main.cpp(119): error C2065: “deltaTime”: 未声明的标识符
+e:\github\opengl\vsproject\breakout\main.cpp(121): error C2065: “deltaTime”: 未声明的标识符
+e:\github\opengl\vsproject\breakout\main.cpp(137): error C2065: “firstMouse”: 未声明的标识符
+e:\github\opengl\vsproject\breakout\main.cpp(139): error C2065: “lastX”: 未声明的标识符
+e:\github\opengl\vsproject\breakout\main.cpp(140): error C2065: “lastY”: 未声明的标识符
+e:\github\opengl\vsproject\breakout\main.cpp(141): error C2065: “firstMouse”: 未声明的标识符
+e:\github\opengl\vsproject\breakout\main.cpp(144): error C2065: “lastX”: 未声明的标识符
+e:\github\opengl\vsproject\breakout\main.cpp(145): error C2065: “lastY”: 未声明的标识符
+e:\github\opengl\vsproject\breakout\main.cpp(147): error C2065: “lastX”: 未声明的标识符
+e:\github\opengl\vsproject\breakout\main.cpp(148): error C2065: “lastY”: 未声明的标识符
+e:\github\opengl\vsproject\breakout\main.cpp(157): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
